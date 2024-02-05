@@ -19,24 +19,17 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Hp92663&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hp92663&layout=compact&theme=react" alt=Hp92663 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hp92663&show_icons=true&locale=en&theme=react" alt="Hp92663" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hp92663&theme=react" alt="Hp92663" /></p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Hp92663">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hp92663&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hp92663&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hp92663&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hp92663&theme=2077" height="180em" />
+  
+  
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hp92663&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hp92663&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Hp92663&theme=react"/>
